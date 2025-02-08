@@ -4,11 +4,11 @@
 
 ## 🛠️ Habilidades Técnicas
 
-- **Lenguajes de Programación**: C, C++, Java, Python, R, HTML.
+- **Lenguajes de Programación**: C, C++, Java, Python, R, HTML, Ladder.
 - **Desarrollo de Software**: Programación orientada a objetos, estructuras de datos, algoritmos.
 - **Análisis de Datos**: Manipulación de datos, visualización, machine learning básico.
 - **Control y Automatización**: Sistemas embebidos, microcontroladores, IoT.
-- **Herramientas**: Git, Maven, XAMPP, Lauch4j, MATLAB, Arduino.
+- **Herramientas**: Git, XAMPP, PLC, Autocad, SolidWorks, MATLAB, Arduino.
 - **Bases de Datos**: MySQL, SQLite.
 
 ## 🚀 Proyectos Destacados
